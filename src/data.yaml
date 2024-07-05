@@ -1,8 +1,0 @@
-title: YAML Example
-owner:
-  name: John Doe
-  organization: GitHub
-  bio: |-
-    John Doe is a software engineer at GitHub.
-    Likes tater tots and beer.
-  dob: 1979-05-27T07:32:00.00Z
